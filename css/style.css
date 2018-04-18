@@ -1,0 +1,15 @@
+.container {
+    vertical-align: middle;
+}
+
+h1 {
+    text-align: center;
+}
+
+.animation {
+    height: 300px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
